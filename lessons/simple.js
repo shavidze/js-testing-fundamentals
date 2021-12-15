@@ -3,12 +3,11 @@ const {sum, substract} = require("../math");
 let result, expected;
 
 
- function sumTest() {
+test('sum adds numbers', () => {
     result = substract(4,6);
     expected = -2;
     expect(result).toBe(expected);
- }
-test('sum adds numbers', sumTest);
+});
  
  function test(title, callback) {
     try {
