@@ -1,0 +1,13 @@
+{
+  "name": "js-testing-fundamentals",
+  "version": "1.0.0",
+  "description": "A repo for my js testing fundamentals",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Saba Shavidze",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.4.5"
+  }
+}

@@ -1,0 +1,1 @@
+const {sum, substract} = require("../math")
